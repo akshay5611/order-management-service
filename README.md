@@ -1,0 +1,1 @@
+The Order Management Service (OMS) is a core microservice responsible for handling the complete lifecycle of customer orders — from order creation to fulfillment and cancellation. It ensures accurate tracking, validation, and synchronization of order data across the system while maintaining data integrity and providing real-time status updates.
